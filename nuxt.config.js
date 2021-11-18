@@ -5,6 +5,10 @@ export default {
       base: '/cpnt200-a1/'
    },
 
+   static: {
+    prefix: false
+  },
+
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'nuxt-atlas',
