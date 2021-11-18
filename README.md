@@ -2,7 +2,7 @@
 **nuxt-atlas**
 
 Instructor: [Ashlyn Knox](https://github.com/lilyx13)
-Links: [Github Repo]() | [Github Pages]()
+Links: [Github Repo](https://github.com/Icahpv) | [Github Pages](https://icahpv.github.io/cpnt200-a1/)
 
 ## About the Assignment
 
