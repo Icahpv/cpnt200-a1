@@ -1,14 +1,17 @@
 # CPNT200-a1
 **nuxt-atlas**
 
-Instructor: [Ashlyn Knox](https://github.com/lilyx13)
-Links: [Github Repo](https://github.com/Icahpv) | [Github Pages](https://icahpv.github.io/cpnt200-a1/)
+- Instructor: [Ashlyn Knox](https://github.com/lilyx13)
+- Links: [Github Repo](https://github.com/Icahpv) | [Github Pages](https://icahpv.github.io/cpnt200-a1/)
 
 ## About the Assignment
 
 - CSS Framework: [TailwindCSS](https://tailwindcss.com/)
 
 The most interesting part of this assignment is how organized [NuxtJs](https://nuxtjs.org/) is and the wonders of [VueJS](https://vuejs.org/). It is amazing that I can create my header in a component and simply add the tag in all my pages and it would look exactly the same. I also like how you can install plugins to make things easier, I have not played with those just yet, I cannot say I am a big fan but I definitely see why companies use this.
+
+### License
+[MIT License](LICENSE) :scroll:
 
 ## Build Setup
 
