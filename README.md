@@ -10,6 +10,11 @@
 
 The most interesting part of this assignment is how organized [NuxtJs](https://nuxtjs.org/) is and the wonders of [VueJS](https://vuejs.org/). It is amazing that I can create my header in a component and simply add the tag in all my pages and it would look exactly the same. I also like how you can install plugins to make things easier, I have not played with those just yet, I cannot say I am a big fan but I definitely see why companies use this.
 
+### Attributions
+
+- [Nuxt Deployment to Github Pages](https://nuxtjs.org/deployments/github-pages/)
+- [How to deploy app to GitHub Pages](https://reactgo.com/nuxt-deploy-github-pages/)
+
 ### License
 [MIT License](LICENSE) :scroll:
 
